@@ -9,7 +9,7 @@ Atualmente curso Desenvolvimento Front-End, onde venho desenvolvendo projetos pr
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth&repo=Dinagoth.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth&repo=Finagoth.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
@@ -18,4 +18,4 @@ Atualmente curso Desenvolvimento Front-End, onde venho desenvolvendo projetos pr
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucas-caliope09/)
