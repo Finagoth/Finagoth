@@ -9,7 +9,7 @@ Atualmente curso Desenvolvimento Front-End, onde venho desenvolvendo projetos pr
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth&repo=Finagoth.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth&repo=Projetos_EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
