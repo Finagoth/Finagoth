@@ -7,3 +7,7 @@ Atualmente curso Desenvolvimento Front-End, onde venho desenvolvendo projetos pr
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finagoth&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth6&repo=Finagoth.github.io&theme=dark)](https://github.com/anuraghazra/github-read
