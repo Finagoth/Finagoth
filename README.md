@@ -3,15 +3,19 @@
 ###### Sobre o Lucas
 Atualmente curso Desenvolvimento Front-End, onde venho desenvolvendo projetos práticos voltados à criação de interfaces web modernas e responsivas.
 
-
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finagoth&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth&repo=Finagoth.github.io&theme=dark)](https://github.com/anuraghazra/github-read
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Finagoth&repo=Dinagoth.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finagoth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
