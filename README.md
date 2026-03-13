@@ -8,9 +8,8 @@ Desenvolvedor Front-End em formação
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;HTML+CSS+JavaScript;React+TypeScript;Building+Modern+Interfaces&font=Fira%20Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+Modern+Web+Interfaces;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
-
 ---
 
 # 👨‍💻 Sobre mim
