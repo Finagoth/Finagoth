@@ -20,12 +20,11 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lucas-caliope09/">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="lucascaliope2010@gmail.com">
-<img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+<a href="mailto:lucascaliope2010@gmail.com">
+  <img 
+    src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"
+    alt="Enviar email para Lucas"
+  />
 </a>
 
 </p>
