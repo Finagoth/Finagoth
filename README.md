@@ -1,16 +1,183 @@
-### Olá 👋
+# <img width="32" src="https://github.com/user-attachments/assets/82ba3270-9dad-4c55-b6aa-1717434833f8" /> Guilherme (Minato) Paim
 
-###### Sobre o Lucas
-Atualmente curso Desenvolvimento Front-End, onde venho desenvolvendo projetos práticos voltados à criação de interfaces web modernas e responsivas.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+APIs+REST;Backend+Focused+Engineer;Docker+%7C+SQL+%7C+NoSQL&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
+</p>
 
-### Detalhes
+<p align="center">
+Desenvolvedor Front-End em formação com foco em <b>HTML, CSS e React</b>.  
+Experiência prática em <b>infraestrutura de TI, suporte técnico e ambientes de produção</b>, o que proporciona forte entendimento de sistemas reais.
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finagoth&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+Formação em <b>Desenvolvimento Front-End pela EBAC</b>, com projetos utilizando <b>HTML, CSS, TypeScript e REACT</b>.  
+Interesse em arquitetura de software, microsserviços e construção de aplicações robustas.
+</p>
 
-### Linguagens utilizadas
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finagoth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 🌐 Conecte-se comigo
 
-### Contatos
+<p align="center">
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucas-caliope09/)
+<a href="https://www.linkedin.com/in/lucas-caliope09/">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="mailto:lucascaliope2010@gmail.com">
+<img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Stack Tecnológica
+
+### Frontend
+
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+</p>
+
+### DevOps / Ferramentas
+
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+---
+
+# 📌 Projetos em Destaque
+
+### 🔹 GitHub Perfil
+Projeto de página web que consome a API pública do GitHub para exibir informações de um usuário, incluindo repositórios, estatísticas e perfil. Desenvolvido com foco em integração de APIs e organização de interface.
+
+🔗 Repositório:  
+https://github.com/sminato27/github_perfil
+
+🚀 Demo:  
+https://github-perfil-sm27.vercel.app/
+
+---
+
+### 🔹 Calculadora de IMC (React)
+Aplicação desenvolvida em React para cálculo do Índice de Massa Corporal com feedback visual e categorização do resultado.
+
+🔗 Repositório:  
+https://github.com/sminato27/calculadora_imc_reactjs
+
+🚀 Demo:  
+https://calculadora-imc-reactjs-sm27.vercel.app/
+
+---
+
+### 🔹 TodoList (Vue)
+Aplicação de gerenciamento de tarefas construída com Vue.js utilizando manipulação de estado e renderização dinâmica de componentes.
+
+🔗 Repositório:  
+https://github.com/sminato27/todolist_vuejs
+
+🚀 Demo:  
+https://todolist-vuejs-chi.vercel.app/
+
+---
+
+### 🔹 EBAC — Exercício Módulo 22
+Projeto front-end desenvolvido durante o curso da EBAC, com foco em práticas modernas de desenvolvimento web e organização de layout.
+
+🔗 Repositório:  
+https://github.com/sminato27/ebac_exercicio_aula_mod22
+
+🚀 Demo:  
+https://ebac-exercicio-aula-mod22.vercel.app/
+
+---
+
+### 🔹 Fanpage (Projeto Front-End EBAC)
+Landing page temática desenvolvida durante o curso com foco em estruturação HTML, estilização CSS e responsividade.
+
+🔗 Repositório:  
+https://github.com/sminato27/EBACFrontEnd_Projeto4
+
+🚀 Demo:  
+https://loganfanpage.vercel.app/
+
+---
+
+### 🔹 Sorteador (Grunt)
+Projeto que utiliza Grunt para automação de tarefas no front-end, demonstrando workflow de build e organização de projeto.
+
+🔗 Repositório:  
+https://github.com/sminato27/sorteador_grunt
+
+🚀 Demo:  
+https://sorteador-grunt-nu-two.vercel.app/
+
+---
+
+### 🔹 Projeto Backend EBAC
+Repositório com exercícios e implementações de backend do curso, incluindo construção de APIs REST, arquitetura de serviços e integração com banco de dados.
+
+🔗 Repositório:  
+https://github.com/sminato27/EBAC_Backend
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=sminato27&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sminato27&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+
+</p>
+
+---
+
+# 📈 Atividade no GitHub
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sminato27&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 Áreas de Interesse
+
+### Backend
+• Desenvolvimento de APIs REST com Java e Spring Boot  
+• Arquitetura de microsserviços  
+• Modelagem de bancos SQL e NoSQL  
+• Integração entre serviços e sistemas distribuídos  
+
+### Frontend
+• Desenvolvimento de interfaces modernas com React  
+• Aplicações web com TypeScript  
+• Consumo de APIs REST no frontend  
+• Componentização e organização de interfaces  
+
+### DevOps e Arquitetura
+• Containers e ambientes com Docker  
+• Boas práticas de versionamento com Git  
+• Estruturação de aplicações Full Stack
+
+---
+
+# 📌 Objetivo Profissional
+
+Atuar como **Desenvolvedor Java Backend ou Full Stack**, contribuindo na construção de sistemas escaláveis e bem estruturados, aplicando boas práticas de engenharia de software e arquitetura moderna.
