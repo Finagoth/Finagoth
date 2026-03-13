@@ -1,18 +1,32 @@
-# <img width="32" src="https://github.com/user-attachments/assets/82ba3270-9dad-4c55-b6aa-1717434833f8" /> Lucas Calíope
+<h1 align="center">
+<img width="28" src="https://github.com/user-attachments/assets/82ba3270-9dad-4c55-b6aa-1717434833f8"/>
+Lucas Calíope
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front+End+Developer;HTML5+CSS3+React+Typescript;Frontend+Focused+Engineer&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
+Desenvolvedor Front-End em formação
 </p>
 
 <p align="center">
-Desenvolvedor Front-End em formação com foco em <b>HTML, CSS e React</b>.  
-Experiência prática em <b>infraestrutura de TI, suporte técnico e ambientes de produção</b>, o que proporciona forte entendimento de sistemas reais.
+<img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;HTML+CSS+JavaScript;React+TypeScript;Building+Modern+Interfaces&font=Fira%20Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
 
-<p align="center">
-Formação em <b>Desenvolvimento Front-End pela EBAC</b>, com projetos utilizando <b>HTML, CSS, TypeScript e REACT</b>.  
-Interesse em arquitetura de software, microsserviços e construção de aplicações robustas.
-</p>
+---
+
+# 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor Front-End em formação**, com foco em **HTML, CSS, JavaScript e React**.
+
+Tenho experiência prática com **infraestrutura de TI, suporte técnico e ambientes de produção**, o que me proporciona uma visão mais ampla sobre funcionamento de sistemas reais, estabilidade e resolução de problemas.
+
+Atualmente curso **Desenvolvimento Front-End pela EBAC**, onde desenvolvo projetos utilizando tecnologias modernas do ecossistema web.
+
+Tenho interesse em evoluir também em áreas como:
+
+- Arquitetura de software
+- Microsserviços
+- Construção de aplicações escaláveis
+- Boas práticas de engenharia de software
 
 ---
 
@@ -21,11 +35,11 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 <p align="center">
 
 <a href="https://www.linkedin.com/in/lucas-caliope09/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
 <a href="mailto:lucascaliope2010@gmail.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
 </p>
@@ -37,55 +51,67 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 ### Frontend
 
 <p>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
 </p>
+
+---
 
 # 📌 Projetos em Destaque
 
-### 🔹 E-commerce de Restaurante (React)
-Desenvolvimento de um e-commerce de restaurante, permitindo navegação por restaurantes, visualização de cardápios e adição de itens ao carrinho.
+## 🍔 E-Food — E-commerce de Restaurante
 
-🔗 Repositório:  
+Aplicação web desenvolvida com **React e TypeScript**, permitindo navegação por restaurantes, visualização de cardápios e adição de itens ao carrinho.
+
+🔗 Repositório  
 https://github.com/Finagoth/EFOOD_Projeto6
 
-🚀 Demo:  
+🚀 Demo  
 https://efood-projeto6-coral.vercel.app/
 
 ---
 
-### 🔹 TodoList (Vue)
-Aplicação de gerenciamento de tarefas construída com Vue.js utilizando manipulação de estado e renderização dinâmica de componentes.
+## ✅ TodoList — Gerenciador de tarefas
 
-🔗 Repositório:  
+Aplicação desenvolvida com **Vue.js** permitindo criação, organização e gerenciamento de tarefas utilizando renderização dinâmica e manipulação de estado.
+
+🔗 Repositório  
 https://github.com/Finagoth/todo_vue
 
-🚀 Demo:  
+🚀 Demo  
 https://todolist-vuejs-chi.vercel.app/
 
 ---
 
-### 🔹 Landing Page
-Desenvolvimento de uma landing page para site comercial, com foco em apresentação de conteúdo e layout responsivo.
+## 🌐 Landing Page Comercial
 
-🔗 Repositório:  
+Landing page responsiva focada em apresentação de conteúdo para site comercial, utilizando **HTML e CSS**.
+
+🔗 Repositório  
 https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3
 
-🚀 Demo:  
+🚀 Demo  
 https://proj3-seven.vercel.app/
 
 ---
 
-### 🔹 Fanpage (Projeto Front-End EBAC)
-Landing page temática desenvolvida durante o curso com foco em estruturação HTML, estilização CSS e responsividade.
+## 🎬 Fanpage — Projeto EBAC
 
-🔗 Repositório:  
+Landing page temática desenvolvida durante o curso com foco em:
+
+- Estruturação HTML
+- Estilização CSS
+- Responsividade
+
+🔗 Repositório  
 https://github.com/Finagoth/Projeto4_Movie
 
-🚀 Demo:  
+🚀 Demo  
 https://projetomovie.vercel.app/
 
 ---
@@ -105,21 +131,33 @@ https://projetomovie.vercel.app/
 # 📈 Atividade no GitHub
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Finagoth&theme=tokyo-night"/>
+
 </p>
 
 ---
 
 # 🧠 Áreas de Interesse
 
-### Frontend
-• Desenvolvimento de interfaces modernas com React  
-• Aplicações web com TypeScript  
-• Consumo de APIs REST no frontend  
-• Componentização e organização de interfaces  
+### Front-End
+
+- Desenvolvimento de interfaces modernas com **React**
+- Aplicações web utilizando **TypeScript**
+- Consumo de **APIs REST**
+- Componentização de interfaces
+- Estruturação e organização de projetos
 
 ---
 
-# 📌 Objetivo Profissional
+# 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Front-End**, contribuindo na construção de sistemas escaláveis e bem estruturados, aplicando boas práticas de engenharia de software e arquitetura moderna.
+Atuar como **Desenvolvedor Front-End**, contribuindo na construção de aplicações modernas, escaláveis e bem estruturadas, aplicando boas práticas de desenvolvimento e arquitetura de software.
+
+---
+
+<p align="center">
+
+⭐ Sempre buscando evoluir como desenvolvedor e construir projetos cada vez melhores.
+
+</p>
