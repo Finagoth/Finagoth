@@ -94,9 +94,9 @@ https://projetomovie.vercel.app/
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=LucasC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Finagoth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasC&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Finagoth&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 
 </p>
 
@@ -105,7 +105,7 @@ https://projetomovie.vercel.app/
 # 📈 Atividade no GitHub
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasC&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Finagoth&theme=tokyo-night"/>
 </p>
 
 ---
