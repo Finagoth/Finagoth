@@ -1,7 +1,7 @@
 # <img width="32" src="https://github.com/user-attachments/assets/82ba3270-9dad-4c55-b6aa-1717434833f8" /> Lucas Calíope
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+APIs+REST;Backend+Focused+Engineer;Docker+%7C+SQL+%7C+NoSQL&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front+End+Developer;HTML5+CSS3+React+Typescript;Frontend+Focused+Engineer&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
@@ -44,44 +44,16 @@ Interesse em arquitetura de software, microsserviços e construção de aplicaç
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
-### Banco de Dados
-
-<p>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-</p>
-
-### DevOps / Ferramentas
-
-<p>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
-
----
-
 # 📌 Projetos em Destaque
 
-### 🔹 GitHub Perfil
-Projeto de página web que consome a API pública do GitHub para exibir informações de um usuário, incluindo repositórios, estatísticas e perfil. Desenvolvido com foco em integração de APIs e organização de interface.
+### 🔹 E-commerce de Restaurante (React)
+Desenvolvimento de um e-commerce de restaurante, permitindo navegação por restaurantes, visualização de cardápios e adição de itens ao carrinho.
 
 🔗 Repositório:  
-https://github.com/sminato27/github_perfil
+https://github.com/Finagoth/EFOOD_Projeto6
 
 🚀 Demo:  
-https://github-perfil-sm27.vercel.app/
-
----
-
-### 🔹 Calculadora de IMC (React)
-Aplicação desenvolvida em React para cálculo do Índice de Massa Corporal com feedback visual e categorização do resultado.
-
-🔗 Repositório:  
-https://github.com/sminato27/calculadora_imc_reactjs
-
-🚀 Demo:  
-https://calculadora-imc-reactjs-sm27.vercel.app/
+https://efood-projeto6-coral.vercel.app/
 
 ---
 
@@ -89,21 +61,21 @@ https://calculadora-imc-reactjs-sm27.vercel.app/
 Aplicação de gerenciamento de tarefas construída com Vue.js utilizando manipulação de estado e renderização dinâmica de componentes.
 
 🔗 Repositório:  
-https://github.com/sminato27/todolist_vuejs
+https://github.com/Finagoth/todo_vue
 
 🚀 Demo:  
 https://todolist-vuejs-chi.vercel.app/
 
 ---
 
-### 🔹 EBAC — Exercício Módulo 22
-Projeto front-end desenvolvido durante o curso da EBAC, com foco em práticas modernas de desenvolvimento web e organização de layout.
+### 🔹 Landing Page
+Desenvolvimento de uma landing page para site comercial, com foco em apresentação de conteúdo e layout responsivo.
 
 🔗 Repositório:  
-https://github.com/sminato27/ebac_exercicio_aula_mod22
+https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3
 
 🚀 Demo:  
-https://ebac-exercicio-aula-mod22.vercel.app/
+https://proj3-seven.vercel.app/
 
 ---
 
@@ -111,29 +83,10 @@ https://ebac-exercicio-aula-mod22.vercel.app/
 Landing page temática desenvolvida durante o curso com foco em estruturação HTML, estilização CSS e responsividade.
 
 🔗 Repositório:  
-https://github.com/sminato27/EBACFrontEnd_Projeto4
+https://github.com/Finagoth/Projeto4_Movie
 
 🚀 Demo:  
-https://loganfanpage.vercel.app/
-
----
-
-### 🔹 Sorteador (Grunt)
-Projeto que utiliza Grunt para automação de tarefas no front-end, demonstrando workflow de build e organização de projeto.
-
-🔗 Repositório:  
-https://github.com/sminato27/sorteador_grunt
-
-🚀 Demo:  
-https://sorteador-grunt-nu-two.vercel.app/
-
----
-
-### 🔹 Projeto Backend EBAC
-Repositório com exercícios e implementações de backend do curso, incluindo construção de APIs REST, arquitetura de serviços e integração com banco de dados.
-
-🔗 Repositório:  
-https://github.com/sminato27/EBAC_Backend
+https://projetomovie.vercel.app/
 
 ---
 
@@ -159,25 +112,14 @@ https://github.com/sminato27/EBAC_Backend
 
 # 🧠 Áreas de Interesse
 
-### Backend
-• Desenvolvimento de APIs REST com Java e Spring Boot  
-• Arquitetura de microsserviços  
-• Modelagem de bancos SQL e NoSQL  
-• Integração entre serviços e sistemas distribuídos  
-
 ### Frontend
 • Desenvolvimento de interfaces modernas com React  
 • Aplicações web com TypeScript  
 • Consumo de APIs REST no frontend  
 • Componentização e organização de interfaces  
 
-### DevOps e Arquitetura
-• Containers e ambientes com Docker  
-• Boas práticas de versionamento com Git  
-• Estruturação de aplicações Full Stack
-
 ---
 
 # 📌 Objetivo Profissional
 
-Atuar como **Desenvolvedor Java Backend ou Full Stack**, contribuindo na construção de sistemas escaláveis e bem estruturados, aplicando boas práticas de engenharia de software e arquitetura moderna.
+Atuar como **Desenvolvedor Front-End**, contribuindo na construção de sistemas escaláveis e bem estruturados, aplicando boas práticas de engenharia de software e arquitetura moderna.
