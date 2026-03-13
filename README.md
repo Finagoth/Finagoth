@@ -17,8 +17,6 @@ Desenvolvedor Front-End em formação
 
 Sou **Desenvolvedor Front-End em formação**, com foco em **HTML, CSS, JavaScript e React**.
 
-Tenho experiência prática com **infraestrutura de TI, suporte técnico e ambientes de produção**, o que me proporciona uma visão mais ampla sobre funcionamento de sistemas reais, estabilidade e resolução de problemas.
-
 Atualmente curso **Desenvolvimento Front-End pela EBAC**, onde desenvolvo projetos utilizando tecnologias modernas do ecossistema web.
 
 Tenho interesse em evoluir também em áreas como:
@@ -48,17 +46,22 @@ Tenho interesse em evoluir também em áreas como:
 
 # 🚀 Stack Tecnológica
 
-### Frontend
+### 🖥 Front-End
 
 <p>
-
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
 </p>
+
+### ⚙️ Ferramentas e Ambiente
+
+• Git & GitHub  
+• Vercel (deploy)  
+• VS Code  
+• Consumo de APIs REST  
 
 ---
 
