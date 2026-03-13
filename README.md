@@ -45,7 +45,7 @@ Tenho interesse em evoluir também em áreas como:
 
 # 🚀 Stack Tecnológica
 
-### 🖥 Front-End
+### 🖥️ Front-End
 
 <p>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -55,12 +55,14 @@ Tenho interesse em evoluir também em áreas como:
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
-### ⚙️ Ferramentas e Ambiente
+### 🧰 Ferramentas
 
-• Git & GitHub  
-• Vercel (deploy)  
-• VS Code  
-• Consumo de APIs REST  
+<p>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+</p>
 
 ---
 
