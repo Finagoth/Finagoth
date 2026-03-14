@@ -116,7 +116,7 @@ https://projetomovie.vercel.app/
 
 ---
 
-## 🧮 Calculadora de IMC — React + Vite
+## 🧮 Calculadora de IMC
 
 Aplicação desenvolvida com **React e Vite** que calcula o Índice de Massa Corporal (IMC) a partir dos dados informados pelo usuário, exibindo o resultado e a classificação correspondente.
 
