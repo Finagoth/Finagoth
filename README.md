@@ -70,7 +70,7 @@ Tenho interesse em evoluir também em áreas como:
 
 ## 🍔 E-Food — E-commerce de Restaurante
 
-Aplicação web desenvolvida com **React e TypeScript**, permitindo navegação por restaurantes, visualização de cardápios e adição de itens ao carrinho.
+Aplicação web desenvolvida com **React e TypeScript** que permite navegar por restaurantes, visualizar cardápios e adicionar itens ao carrinho de compras.
 
 🔗 Repositório  
 https://github.com/Finagoth/EFOOD_Projeto6
@@ -80,9 +80,9 @@ https://efood-projeto6-coral.vercel.app/
 
 ---
 
-## ✅ TodoList — Gerenciador de tarefas
+## ✅ TodoList — Gerenciador de Tarefas
 
-Aplicação desenvolvida com **Vue.js** permitindo criação, organização e gerenciamento de tarefas utilizando renderização dinâmica e manipulação de estado.
+Aplicação desenvolvida com **Vue.js** para criação, organização e gerenciamento de tarefas, utilizando renderização dinâmica de componentes e manipulação de estado.
 
 🔗 Repositório  
 https://github.com/Finagoth/todo_vue
@@ -94,7 +94,7 @@ https://todolist-vuejs-chi.vercel.app/
 
 ## 🌐 Landing Page Comercial
 
-Landing page responsiva focada em apresentação de conteúdo para site comercial, utilizando **HTML e CSS**.
+Landing page responsiva desenvolvida com **HTML e CSS**, focada em apresentação de conteúdo e estruturação de layout para páginas institucionais.
 
 🔗 Repositório  
 https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3
@@ -106,17 +106,25 @@ https://proj3-seven.vercel.app/
 
 ## 🎬 Fanpage — Projeto EBAC
 
-Landing page temática desenvolvida durante o curso com foco em:
-
-- Estruturação HTML
-- Estilização CSS
-- Responsividade
+Página temática desenvolvida durante o curso, com foco em **estruturação semântica em HTML, estilização com CSS e adaptação para diferentes tamanhos de tela**.
 
 🔗 Repositório  
 https://github.com/Finagoth/Projeto4_Movie
 
 🚀 Demo  
 https://projetomovie.vercel.app/
+
+---
+
+## 🧮 Calculadora de IMC — React + Vite
+
+Aplicação desenvolvida com **React e Vite** que calcula o Índice de Massa Corporal (IMC) a partir dos dados informados pelo usuário, exibindo o resultado e a classificação correspondente.
+
+🔗 Repositório  
+https://github.com/Finagoth/calculadora-imc
+
+🚀 Demo  
+https://calculadora-imc-red-nu.vercel.app/
 
 ---
 
