@@ -68,6 +68,20 @@ Tenho interesse em evoluir também em áreas como:
 
 # 📌 Projetos em Destaque
 
+## 🛒 Lista de Compras — Controle de Mercado
+
+Aplicação web desenvolvida com HTML, CSS e JavaScript puro que permite adicionar produtos, editar valores diretamente na tela, remover itens e calcular automaticamente o total da compra.
+
+O projeto simula um mini sistema de controle de gastos em mercado, com foco em manipulação de DOM, eventos e lógica de estado.
+
+🔗 Repositório
+https://github.com/Finagoth/lista-mercado
+
+🚀 Demo
+https://lista-mercado-rho.vercel.app/
+
+---
+
 ## 🍔 E-Food — E-commerce de Restaurante
 
 Aplicação web desenvolvida com **React e TypeScript** que permite navegar por restaurantes, visualizar cardápios e adicionar itens ao carrinho de compras.
