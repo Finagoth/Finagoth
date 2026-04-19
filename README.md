@@ -68,98 +68,109 @@ Tenho interesse em evoluir também em áreas como:
 
 # 📌 Projetos em Destaque
 
-## 🎬 Filmes App — Catálogo de Filmes
+<table>
+<tr>
+<td width="50%">
 
-Aplicação web desenvolvida com React e TypeScript que permite buscar filmes, visualizar detalhes e navegar por diferentes títulos de forma dinâmica.
+### 🎬 Filmes App  
+![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-O projeto utiliza consumo de API REST, gerenciamento de estado e roteamento com React Router, focando em boas práticas de componentização e organização de código.
+Aplicação web para busca e visualização de filmes com consumo de API REST, navegação dinâmica e componentização.
 
-🔗 Repositório  
-https://github.com/Finagoth/filmes-app
+🔗 [Repositório](https://github.com/Finagoth/filmes-app)  
+🚀 [Demo](https://filmes-app-six.vercel.app/)
 
-🚀 Demo  
-https://filmes-app-six.vercel.app/
+</td>
 
----
+<td width="50%">
 
-## 🛒 Lista de Compras — Controle de Mercado
+### 🛒 Lista de Compras  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-Aplicação web desenvolvida com HTML, CSS e JavaScript puro que permite adicionar produtos, editar valores diretamente na tela, remover itens e calcular automaticamente o total da compra.
+Sistema de controle de compras com manipulação de DOM, edição de valores e cálculo automático.
 
-O projeto simula um mini sistema de controle de gastos em mercado, com foco em manipulação de DOM, eventos e lógica de estado.
+🔗 [Repositório](https://github.com/Finagoth/lista-mercado)  
+🚀 [Demo](https://lista-mercado-rho.vercel.app/)
 
-🔗 Repositório  
-https://github.com/Finagoth/lista-mercado
+</td>
+</tr>
 
-🚀 Demo  
-https://lista-mercado-rho.vercel.app/
+<tr>
+<td>
 
----
+### 🍔 E-Food  
+![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## 🍔 E-Food — E-commerce de Restaurante
+E-commerce com carrinho, consumo de API e gerenciamento de estado com Redux Toolkit.
 
-Aplicação web desenvolvida com **React e TypeScript** que permite navegar por restaurantes, visualizar cardápios e adicionar itens ao carrinho de compras.
+🔗 [Repositório](https://github.com/Finagoth/EFOOD_Projeto6)  
+🚀 [Demo](https://efood-projeto6-coral.vercel.app/)
 
-Implementação de gerenciamento de estado global com Redux Toolkit. Criação de navegação dinâmica com React Router.
+</td>
 
-Integração com APIs REST para carregamento de dados. Desenvolvimento de componentes reutilizáveis com Styled Components. Estrutura baseada em boas práticas de arquitetura Front-End.
+<td>
 
+### ✅ TodoList  
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 
-🔗 Repositório  
-https://github.com/Finagoth/EFOOD_Projeto6
+Gerenciador de tarefas com renderização dinâmica, estado reativo e persistência local.
 
-🚀 Demo  
-https://efood-projeto6-coral.vercel.app/
+🔗 [Repositório](https://github.com/Finagoth/todo_vue)  
+🚀 [Demo](https://todolist-vuejs-chi.vercel.app/)
 
----
+</td>
+</tr>
 
-## ✅ TodoList — Gerenciador de Tarefas
+<tr>
+<td>
 
-Aplicação desenvolvida com **Vue.js** para criação, organização e gerenciamento de tarefas, utilizando renderização dinâmica de componentes e manipulação de estado.
+### 🌐 Landing Page  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-🔗 Repositório  
-https://github.com/Finagoth/todo_vue
+Landing page responsiva focada em layout e apresentação institucional.
 
-🚀 Demo  
-https://todolist-vuejs-chi.vercel.app/
+🔗 [Repositório](https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3)  
+🚀 [Demo](https://proj3-seven.vercel.app/)
 
----
+</td>
 
-## 🌐 Landing Page Comercial
+<td>
 
-Landing page responsiva desenvolvida com **HTML e CSS**, focada em apresentação de conteúdo e estruturação de layout para páginas institucionais.
+### 🎬 Fanpage  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-🔗 Repositório  
-https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3
+Landing page com estrutura semântica e integração com vídeo.
 
-🚀 Demo  
-https://proj3-seven.vercel.app/
+🔗 [Repositório](https://github.com/Finagoth/Projeto4_Movie)  
+🚀 [Demo](https://projetomovie.vercel.app/)
 
----
+</td>
+</tr>
 
-## 🎬 Fanpage — Projeto EBAC
+<tr>
+<td>
 
-Página temática desenvolvida durante o curso, com foco em **estruturação semântica em HTML, estilização com CSS e adaptação para diferentes tamanhos de tela**.
+### 🧮 Calculadora IMC  
+![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
 
-Estrutura semântica com HTML5 e estilização com CSS3. Inserção de imagens e vídeo integrado do YouTube. Versionamento com GitHub e deploy com Vercel.
+Aplicação para cálculo de IMC com feedback visual e classificação.
 
-🔗 Repositório  
-https://github.com/Finagoth/Projeto4_Movie
+🔗 [Repositório](https://github.com/Finagoth/calculadora-imc)  
+🚀 [Demo](https://calculadora-imc-red-nu.vercel.app/)
 
-🚀 Demo  
-https://projetomovie.vercel.app/
+</td>
 
----
+<td>
+</td>
+</tr>
 
-## 🧮 Calculadora de IMC
-
-Aplicação desenvolvida com **React e Vite** que calcula o Índice de Massa Corporal (IMC) a partir dos dados informados pelo usuário, exibindo o resultado e a classificação correspondente.
-
-🔗 Repositório  
-https://github.com/Finagoth/calculadora-imc
-
-🚀 Demo  
-https://calculadora-imc-red-nu.vercel.app/
+</table>
 
 ---
 
