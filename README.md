@@ -175,6 +175,7 @@ Landing page com estrutura semântica e vídeo integrado.
 </tr>
 
 </table>
+
 ---
 
 # 📊 Estatísticas GitHub
