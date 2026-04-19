@@ -73,7 +73,7 @@ Tenho interesse em evoluir também em áreas como:
 ### 🎬 Filmes App — Catálogo de Filmes  
 
 <p align="center">
-<img src="https://via.placeholder.com/800x400?text=Filmes+App+Preview" />
+<img src="https://imgur.com/a/ocKDUFh" />
 </p>
 
 <p align="center">
