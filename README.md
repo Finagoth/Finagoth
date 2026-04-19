@@ -101,6 +101,11 @@ https://lista-mercado-rho.vercel.app/
 
 Aplicação web desenvolvida com **React e TypeScript** que permite navegar por restaurantes, visualizar cardápios e adicionar itens ao carrinho de compras.
 
+Implementação de gerenciamento de estado global com Redux Toolkit. Criação de navegação dinâmica com React Router.
+
+Integração com APIs REST para carregamento de dados. Desenvolvimento de componentes reutilizáveis com Styled Components. Estrutura baseada em boas práticas de arquitetura Front-End.
+
+
 🔗 Repositório  
 https://github.com/Finagoth/EFOOD_Projeto6
 
@@ -136,6 +141,8 @@ https://proj3-seven.vercel.app/
 ## 🎬 Fanpage — Projeto EBAC
 
 Página temática desenvolvida durante o curso, com foco em **estruturação semântica em HTML, estilização com CSS e adaptação para diferentes tamanhos de tela**.
+
+Estrutura semântica com HTML5 e estilização com CSS3. Inserção de imagens e vídeo integrado do YouTube. Versionamento com GitHub e deploy com Vercel.
 
 🔗 Repositório  
 https://github.com/Finagoth/Projeto4_Movie
