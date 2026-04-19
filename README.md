@@ -79,7 +79,6 @@ O projeto utiliza consumo de API REST, gerenciamento de estado e roteamento com 
 https://github.com/Finagoth/filmes-app
 
 🚀 Demo 
-
 https://filmes-app-six.vercel.app/
 
 ---
@@ -94,7 +93,6 @@ O projeto simula um mini sistema de controle de gastos em mercado, com foco em m
 https://github.com/Finagoth/lista-mercado
 
 🚀 Demo 
-
 https://lista-mercado-rho.vercel.app/
 
 ---
