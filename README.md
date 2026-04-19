@@ -68,6 +68,21 @@ Tenho interesse em evoluir também em áreas como:
 
 # 📌 Projetos em Destaque
 
+📌 Projetos em Destaque
+## 🎬 Filmes App — Catálogo de Filmes
+
+Aplicação web desenvolvida com React e TypeScript que permite buscar filmes, visualizar detalhes e navegar por diferentes títulos de forma dinâmica.
+
+O projeto utiliza consumo de API REST, gerenciamento de estado e roteamento com React Router, focando em boas práticas de componentização e organização de código.
+
+🔗 Repositório
+https://github.com/Finagoth/filmes-app
+
+🚀 Demo
+https://filmes-app-six.vercel.app/
+
+---
+
 ## 🛒 Lista de Compras — Controle de Mercado
 
 Aplicação web desenvolvida com HTML, CSS e JavaScript puro que permite adicionar produtos, editar valores diretamente na tela, remover itens e calcular automaticamente o total da compra.
