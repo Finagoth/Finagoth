@@ -163,21 +163,6 @@ https://calculadora-imc-red-nu.vercel.app/
 
 ---
 
-📊 Estatísticas GitHub
-<p align="center"> <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Finagoth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Finagoth&theme=tokyonight&layout=compact&custom_title=Tecnologias"/> </p>
-
----
-
-### ✨ Funcionalidades
-
-- 🔎 Busca de filmes
-- 🎬 Visualização de detalhes
-- 🔄 Navegação entre páginas
-- ⚡ Consumo de API externa
-- 📱 Interface responsiva
-
----
-
 # 📊 Estatísticas GitHub
 
 <p align="center">
