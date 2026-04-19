@@ -75,7 +75,7 @@ Aplicação web desenvolvida com React e TypeScript que permite buscar filmes, v
 
 O projeto utiliza consumo de API REST, gerenciamento de estado e roteamento com React Router, focando em boas práticas de componentização e organização de código.
 
-🔗 Repositório
+🔗 Repositório  
 https://github.com/Finagoth/filmes-app
 
 🚀 Demo
@@ -89,7 +89,7 @@ Aplicação web desenvolvida com HTML, CSS e JavaScript puro que permite adicion
 
 O projeto simula um mini sistema de controle de gastos em mercado, com foco em manipulação de DOM, eventos e lógica de estado.
 
-🔗 Repositório
+🔗 Repositório  
 https://github.com/Finagoth/lista-mercado
 
 🚀 Demo
