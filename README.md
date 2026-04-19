@@ -71,19 +71,32 @@ Tenho interesse em evoluir também em áreas como:
 ## ⭐ Projeto Principal
 
 ### 🎬 Filmes App — Catálogo de Filmes  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![API](https://img.shields.io/badge/API-REST-20232A?style=for-the-badge)
 
-Aplicação web para **busca e visualização de filmes**, com consumo de API REST utilizando **async/await**, navegação entre páginas e interface dinâmica.
+<p align="center">
+<img src="https://via.placeholder.com/800x400?text=Filmes+App+Preview" />
+</p>
 
-✔ Componentização  
-✔ Consumo de API  
-✔ React Router  
-✔ Interface responsiva  
+<p align="center">
+  <a href="https://github.com/Finagoth/filmes-app">
+    <img src="https://img.shields.io/badge/Repositório-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://filmes-app-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0A66C2?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
-🔗 [Repositório](https://github.com/Finagoth/filmes-app)  
-🚀 [Live Demo](https://filmes-app-six.vercel.app/)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
+![API](https://img.shields.io/badge/API-REST-20232A?style=flat)
+
+Aplicação web para **busca e visualização de filmes**, com consumo de API REST utilizando **async/await**, navegação com React Router e interface dinâmica.
+
+### ✨ Destaques
+- 🔎 Busca de filmes  
+- 🎬 Página de detalhes  
+- 🔄 Navegação entre rotas  
+- ⚡ Consumo de API  
+- 📱 Responsivo  
 
 ---
 
@@ -94,11 +107,12 @@ Aplicação web para **busca e visualização de filmes**, com consumo de API RE
 <td width="50%">
 
 ### 🛒 Lista de Compras  
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-Controle de compras com manipulação de DOM, edição de valores e cálculo automático.
+<img src="https://via.placeholder.com/400x200?text=Lista+de+Compras"/>
+
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+Sistema com manipulação de DOM e cálculo automático de valores.
 
 🔗 [Repositório](https://github.com/Finagoth/lista-mercado)  
 🚀 [Demo](https://lista-mercado-rho.vercel.app/)
@@ -108,11 +122,13 @@ Controle de compras com manipulação de DOM, edição de valores e cálculo aut
 <td width="50%">
 
 ### 🍔 E-Food  
+
+<img src="https://via.placeholder.com/400x200?text=E-Food"/>
+
 ![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-E-commerce com carrinho, API REST e gerenciamento global de estado.
+E-commerce com carrinho, API e estado global.
 
 🔗 [Repositório](https://github.com/Finagoth/EFOOD_Projeto6)  
 🚀 [Demo](https://efood-projeto6-coral.vercel.app/)
@@ -124,9 +140,12 @@ E-commerce com carrinho, API REST e gerenciamento global de estado.
 <td>
 
 ### ✅ TodoList  
+
+<img src="https://via.placeholder.com/400x200?text=TodoList"/>
+
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white)
 
-Gerenciador de tarefas com estado reativo e persistência local.
+Gerenciador de tarefas com estado reativo.
 
 🔗 [Repositório](https://github.com/Finagoth/todo_vue)  
 🚀 [Demo](https://todolist-vuejs-chi.vercel.app/)
@@ -136,9 +155,12 @@ Gerenciador de tarefas com estado reativo e persistência local.
 <td>
 
 ### 🧮 Calculadora IMC  
+
+<img src="https://via.placeholder.com/400x200?text=IMC"/>
+
 ![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
 
-Cálculo de IMC com feedback visual e classificação automática.
+Cálculo de IMC com feedback visual.
 
 🔗 [Repositório](https://github.com/Finagoth/calculadora-imc)  
 🚀 [Demo](https://calculadora-imc-red-nu.vercel.app/)
@@ -150,10 +172,10 @@ Cálculo de IMC com feedback visual e classificação automática.
 <td>
 
 ### 🌐 Landing Page  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-Landing page responsiva com foco em layout e apresentação.
+<img src="https://via.placeholder.com/400x200?text=Landing+Page"/>
+
+Landing page responsiva com HTML e CSS.
 
 🔗 [Repositório](https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3)  
 🚀 [Demo](https://proj3-seven.vercel.app/)
@@ -163,10 +185,10 @@ Landing page responsiva com foco em layout e apresentação.
 <td>
 
 ### 🎬 Fanpage  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-Landing page com estrutura semântica e vídeo integrado.
+<img src="https://via.placeholder.com/400x200?text=Fanpage"/>
+
+Projeto com HTML semântico e CSS.
 
 🔗 [Repositório](https://github.com/Finagoth/Projeto4_Movie)  
 🚀 [Demo](https://projetomovie.vercel.app/)
