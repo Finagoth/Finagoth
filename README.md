@@ -73,7 +73,7 @@ Tenho interesse em evoluir também em áreas como:
 ### 🎬 Filmes App — Catálogo de Filmes  
 
 <p align="center">
-<img src="https://imgur.com/ZClYVdU" />
+<img src="https://github.com/Finagoth/filmes-app/blob/main/public/fotoTelaInicial.jpg" />
 </p>
 
 <p align="center">
