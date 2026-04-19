@@ -68,7 +68,6 @@ Tenho interesse em evoluir também em áreas como:
 
 # 📌 Projetos em Destaque
 
-📌 Projetos em Destaque
 ## 🎬 Filmes App — Catálogo de Filmes
 
 Aplicação web desenvolvida com React e TypeScript que permite buscar filmes, visualizar detalhes e navegar por diferentes títulos de forma dinâmica.
@@ -161,6 +160,21 @@ https://github.com/Finagoth/calculadora-imc
 
 🚀 Demo  
 https://calculadora-imc-red-nu.vercel.app/
+
+---
+
+📊 Estatísticas GitHub
+<p align="center"> <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Finagoth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Finagoth&theme=tokyonight&layout=compact&custom_title=Tecnologias"/> </p>
+
+---
+
+### ✨ Funcionalidades
+
+- 🔎 Busca de filmes
+- 🎬 Visualização de detalhes
+- 🔄 Navegação entre páginas
+- ⚡ Consumo de API externa
+- 📱 Interface responsiva
 
 ---
 
