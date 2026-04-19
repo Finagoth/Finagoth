@@ -178,7 +178,7 @@ https://calculadora-imc-red-nu.vercel.app/
 # 📈 Atividade no GitHub
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sminato27&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Finagoth&theme=tokyo-night"/>
 </p>
 
 ---
