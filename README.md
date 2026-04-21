@@ -82,7 +82,7 @@ Aplicação web para **busca e visualização de filmes**, com consumo de API RE
 ✔ React Router  
 ✔ Interface responsiva  
 
-🔗 [Repositório](https://github.com/Finagoth/filmes-app) | 🚀 [Live Demo](https://filmes-app-six.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/filmes-app)  | 🚀 [Live Demo](https://filmes-app-six.vercel.app/)
 
 ---
 
@@ -99,7 +99,7 @@ Aplicação web para **busca e visualização de filmes**, com consumo de API RE
 
 Controle de compras com manipulação de DOM, edição de valores e cálculo automático.
 
-🔗 [Repositório](https://github.com/Finagoth/lista-mercado) | 🚀 [Demo](https://lista-mercado-rho.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/lista-mercado)  | 🚀 [Demo](https://lista-mercado-rho.vercel.app/)
 
 </td>
 
@@ -112,7 +112,7 @@ Controle de compras com manipulação de DOM, edição de valores e cálculo aut
 
 E-commerce com carrinho, API REST e gerenciamento global de estado.
 
-🔗 [Repositório](https://github.com/Finagoth/EFOOD_Projeto6) | 🚀 [Demo](https://efood-projeto6-coral.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/EFOOD_Projeto6)  | 🚀 [Demo](https://efood-projeto6-coral.vercel.app/)
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ E-commerce com carrinho, API REST e gerenciamento global de estado.
 
 Gerenciador de tarefas com estado reativo e persistência local.
 
-🔗 [Repositório](https://github.com/Finagoth/todo_vue) | 🚀 [Demo](https://todolist-vuejs-chi.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/todo_vue)  | 🚀 [Demo](https://todolist-vuejs-chi.vercel.app/)
 
 </td>
 
@@ -136,7 +136,7 @@ Gerenciador de tarefas com estado reativo e persistência local.
 
 Cálculo de IMC com feedback visual e classificação automática.
 
-🔗 [Repositório](https://github.com/Finagoth/calculadora-imc) | 🚀 [Demo](https://calculadora-imc-red-nu.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/calculadora-imc)  | 🚀 [Demo](https://calculadora-imc-red-nu.vercel.app/)
 
 </td>
 </tr>
@@ -150,7 +150,7 @@ Cálculo de IMC com feedback visual e classificação automática.
 
 Landing page responsiva com foco em layout e apresentação.
 
-🔗 [Repositório](https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3) | 🚀 [Demo](https://proj3-seven.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/Projetos_EBAC/tree/main/PROJETOS/proj3)  | 🚀 [Demo](https://proj3-seven.vercel.app/)
 
 </td>
 
@@ -162,7 +162,7 @@ Landing page responsiva com foco em layout e apresentação.
 
 Landing page com estrutura semântica e vídeo integrado.
 
-🔗 [Repositório](https://github.com/Finagoth/Projeto4_Movie) | 🚀 [Demo](https://projetomovie.vercel.app/)
+🔗 [Repositório](https://github.com/Finagoth/Projeto4_Movie)  | 🚀 [Demo](https://projetomovie.vercel.app/)
 
 </td>
 </tr>
