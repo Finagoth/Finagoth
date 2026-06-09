@@ -80,6 +80,29 @@ Atualmente estudo Desenvolvimento Front-End na EBAC e desenvolvo projetos utiliz
 
 <br>
 
+<!-- Projeto Principal -->
+<table>
+<tr>
+<td width="60" align="center">✍️</td>
+<td>
+
+# [Blog Dev](https://github.com/Finagoth/blog-dev)
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
+
+Blog técnico desenvolvido com **Next.js 15**, Tailwind CSS v4 e MDX.  
+Utiliza App Router + SSG, suporte a conteúdo em MDX via MDX Remote e extração de metadados com Gray Matter.
+
+🔗 [Repositório](https://github.com/Finagoth/blog-dev) &nbsp;|&nbsp; 🚀 [Live Demo](https://blog-dev-lucas.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+
 <!-- Grid Projetos -->
 <table>
 <tr>
