@@ -108,6 +108,23 @@ Utiliza App Router + SSG, suporte a conteúdo em MDX via MDX Remote e extração
 <tr>
 <td width="50%" valign="top">
 
+### 🎯 [Job Tracker — Gestor de Candidaturas](https://github.com/Finagoth/job-tracker)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Sistema completo para gerenciar candidaturas de emprego: autenticação, CRUD de vagas, dashboard de métricas, filtros combinados e dark mode.
+
+🔗 [Repositório](https://github.com/Finagoth/job-tracker) &nbsp;|&nbsp; 🚀 [Live Demo](https://job-tracker-rho-roan.vercel.app)
+
+</td>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎬 [Filmes App — Catálogo de Filmes](https://github.com/Finagoth/filmes-app)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
