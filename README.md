@@ -139,7 +139,7 @@ Sistema para gerenciamento de candidaturas de emprego.
 ## 🎬 Filmes App
 
 <p align="center">
-<img src="images/filmes-app.png" width="900"/>
+<img src="images/filme-app.png" width="900"/>
 </p>
 
 Aplicação web para consulta de filmes consumindo a API do TMDB.
