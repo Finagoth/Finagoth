@@ -76,144 +76,99 @@ Atualmente estudo Desenvolvimento Front-End na EBAC e desenvolvo projetos utiliz
 
 ---
 
-# 📌 Projetos em Destaque
+# 🚀 Projetos Principais
 
-<br>
+---
 
-<!-- Projeto Principal -->
-<table>
-<tr>
-<td width="60" align="center">✍️</td>
-<td>
+## ⭐ Blog Dev
 
-# [Blog Dev](https://github.com/Finagoth/blog-dev)
+<p align="center">
+<img src="./images/blog-dev.png" width="900"/>
+</p>
+
+Blog técnico desenvolvido com **Next.js 15**, utilizando App Router, MDX e Tailwind CSS v4.
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)
 
-Blog técnico desenvolvido com **Next.js 15**, Tailwind CSS v4 e MDX.  
-Utiliza App Router + SSG, suporte a conteúdo em MDX via MDX Remote e extração de metadados com Gray Matter.
+### Principais funcionalidades
 
-🔗 [Repositório](https://github.com/Finagoth/blog-dev) &nbsp;|&nbsp; 🚀 [Live Demo](https://blog-dev-lucas.vercel.app/)
+- ✅ Next.js 15
+- ✅ App Router
+- ✅ SEO
+- ✅ MDX
+- ✅ Performance
+- ✅ Design Responsivo
 
-</td>
-</tr>
-</table>
+🔗 **Repositório:** https://github.com/Finagoth/blog-dev
 
+🚀 **Demo:** https://blog-dev-lucas.vercel.app/
 
-<!-- Grid Projetos -->
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🎯 [Job Tracker — Gestor de Candidaturas](https://github.com/Finagoth/job-tracker)
+## 💼 Job Tracker
+
+<p align="center">
+<img src="./images/job-tracker.png" width="900"/>
+</p>
+
+Sistema para gerenciamento de candidaturas de emprego.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Sistema completo para gerenciar candidaturas de emprego: autenticação, CRUD de vagas, dashboard de métricas, filtros combinados e dark mode.
+### Principais funcionalidades
 
-🔗 [Repositório](https://github.com/Finagoth/job-tracker) &nbsp;|&nbsp; 🚀 [Live Demo](https://job-tracker-rho-roan.vercel.app)
+- ✅ Dashboard
+- ✅ CRUD de vagas
+- ✅ Autenticação
+- ✅ Dark Mode
+- ✅ Métricas
+- ✅ Filtros
 
-</td>
+🔗 **Repositório:** https://github.com/Finagoth/job-tracker
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🚀 **Demo:** https://job-tracker-rho-roan.vercel.app/
 
-### 🎬 [Filmes App — Catálogo de Filmes](https://github.com/Finagoth/filmes-app)
+---
+
+## 🎬 Filmes App
+
+<p align="center">
+<img src="./images/filmes-app.png" width="900"/>
+</p>
+
+Aplicação web para consulta de filmes consumindo a API do TMDB.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-REST-20232A?style=flat-square)
 
-Aplicação web para busca e visualização de filmes com consumo de API REST e navegação dinâmica com React Router.
+### Principais funcionalidades
 
-🔗 [Repositório](https://github.com/Finagoth/filmes-app)  
-🚀 [Live Demo](https://filmes-app-six.vercel.app/)
+- ✅ Consumo de API
+- ✅ Busca dinâmica
+- ✅ React Router
+- ✅ Hooks
+- ✅ Interface Responsiva
 
-</td>
+🔗 **Repositório:** https://github.com/Finagoth/filmes-app
 
-<td width="50%" valign="top">
+🚀 **Demo:** https://filmes-app-six.vercel.app/
 
-### 💰 [Finanças App](https://github.com/Finagoth/financas-app)
+# 📂 Outros Projetos
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-App mobile de controle financeiro pessoal com cadastro de transações e persistência local.
-
-🔗 [Repositório](https://github.com/Finagoth/financas-app)  
-📱 [Testar no Expo Go](https://expo.dev/accounts/finagoth/projects/financas-app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🍔 [E-Food](https://github.com/Finagoth/EFOOD_Projeto6)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-E-commerce de delivery com carrinho de compras e gerenciamento global de estado com Redux Toolkit.
-
-🔗 [Repositório](https://github.com/Finagoth/EFOOD_Projeto6)  
-🚀 [Demo](https://efood-projeto6-coral.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 [Lista de Compras](https://github.com/Finagoth/lista-mercado)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Controle de compras com manipulação dinâmica de DOM e cálculo automático do valor total.
-
-🔗 [Repositório](https://github.com/Finagoth/lista-mercado)  
-🚀 [Demo](https://lista-mercado-rho.vercel.app/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ✅ [TodoList](https://github.com/Finagoth/todo_vue)
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-
-Gerenciador de tarefas com renderização dinâmica de componentes e persistência local em Vue.js.
-
-🔗 [Repositório](https://github.com/Finagoth/todo_vue)  
-🚀 [Demo](https://todolist-vuejs-chi.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧮 [Calculadora IMC](https://github.com/Finagoth/calculadora-imc)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-Calculadora de IMC com feedback visual imediato e categorização automática do resultado.
-
-🔗 [Repositório](https://github.com/Finagoth/calculadora-imc)  
-🚀 [Demo](https://calculadora-imc-red-nu.vercel.app/)
-
-</td>
-</tr>
-</table>
+| Projeto | Tecnologias | Demo |
+|---------|-------------|:---:|
+| 💰 **Finanças App** | React Native • Expo | [✅](https://expo.dev/accounts/finagoth/projects/financas-app) |
+| 🍔 **E-Food** | React • Redux Toolkit | [✅](https://efood-projeto6-coral.vercel.app/) |
+| 🛒 **Lista Mercado** | JavaScript • HTML • CSS | [✅](https://lista-mercado-rho.vercel.app/) |
+| ✅ **Todo Vue** | Vue.js | [✅](https://todolist-vuejs-chi.vercel.app/) |
+| 🧮 **Calculadora IMC** | React | [✅](https://calculadora-imc-red-nu.vercel.app/) |
 
 ---
 
