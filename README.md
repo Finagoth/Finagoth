@@ -83,7 +83,7 @@ Atualmente estudo Desenvolvimento Front-End na EBAC e desenvolvo projetos utiliz
 ## ⭐ Blog Dev
 
 <p align="center">
-<img src="./images/blog-dev.png" width="900"/>
+<img src="images/blog-dev.png" width="900"/>
 </p>
 
 Blog técnico desenvolvido com **Next.js 15**, utilizando App Router, MDX e Tailwind CSS v4.
@@ -111,7 +111,7 @@ Blog técnico desenvolvido com **Next.js 15**, utilizando App Router, MDX e Tail
 ## 💼 Job Tracker
 
 <p align="center">
-<img src="./images/job-tracker.png" width="900"/>
+<img src="images/job-tracker.png" width="900"/>
 </p>
 
 Sistema para gerenciamento de candidaturas de emprego.
@@ -139,7 +139,7 @@ Sistema para gerenciamento de candidaturas de emprego.
 ## 🎬 Filmes App
 
 <p align="center">
-<img src="./images/filmes-app.png" width="900"/>
+<img src="images/filmes-app.png" width="900"/>
 </p>
 
 Aplicação web para consulta de filmes consumindo a API do TMDB.
